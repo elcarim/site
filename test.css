@@ -1,0 +1,28 @@
+.header_topline{
+	background-color: #43484C;
+	padding: 15px 0	;
+	color: #fff;
+}
+
+.header_topline a{
+	color: #fff;
+}
+.top_links{
+	color: #fff;
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+	
+}
+.auth_btn{
+	border: medium none;
+	background-color: transparent;	
+	font-size: 20px;
+
+}
+.soc_link{
+	float: right;
+}
+.soc_link a{
+	font-size: 25px;
+}
